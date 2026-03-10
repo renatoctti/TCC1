@@ -10,7 +10,7 @@
 
 5. Charoenwet, W.; Thongtanunam, P.; Pham, V.-T.; Treude, C. "Do Developers Use Static Application Security Testing (SAST) Tools Straight Out of the Box? A Large-Scale Empirical Study," ESEM 2024 — 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, 2024. DOI: [10.1145/3674805.3690750](https://dl.acm.org/doi/10.1145/3674805.3690750)
 
-6. Li, K.; Chen, S.; Fan, L.; Feng, R.; Liu, H.; Liu, C.; Liu, Y.; Chen, Y. "A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android," IEEE Transactions on Software Engineering, vol. 50, 2024. DOI: [10.1109/TSE.2024.3488041](https://ieeexplore-ieee-org.ez93.periodicos.capes.gov.br/document/10738442)
+6. Li, K.; Chen, S.; Fan, L.; Feng, R.; Liu, H.; Liu, C.; Liu, Y.; Chen, Y. "A Comprehensive Study on Static Application Security Testing (SAST) Tools for Android," IEEE Transactions on Software Engineering, vol. 50, 2024. DOI: [10.1109/TSE.2024.3488041](https://doi.org/10.1109/TSE.2024.3488041)
 
 7. Nguyen, A. T.; Le, T.-B.; Kochhar, P. S.; Lo, D. "Automated Code-centric Software Vulnerability Assessment: How Far Are We? An Empirical Study in C/C++," ESEM 2024 — 18th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement, 2024. DOI: [10.1145/3674805.3686678](https://arxiv.org/abs/2407.17053)
 
